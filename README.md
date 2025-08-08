@@ -75,14 +75,6 @@ OList wants to:
 
 ---
 
-## 📷 Dashboard Preview
-
-> Embed a video or image here  
-> ![Dashboard Preview](link-to-image-or-gif)
-
-Or upload a GIF/video showing your Tableau dashboard in action.
-
----
 
 ## 📎 Files Included
 
@@ -96,7 +88,7 @@ Or upload a GIF/video showing your Tableau dashboard in action.
 
 ## 📽️ Project Demo
 
-[![Watch Video](https://img.youtube.com/vi/your_video_id/mqdefault.jpg)](https://www.youtube.com/watch?v=your_video_id)
+[![Watch Video](https://youtu.be/slaSsgRFedk)
 
 ---
 
@@ -110,5 +102,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 👤 Mohammed Zakir  
 🎓 PG Diploma & MSc in Data Science  
-🌐 [Portfolio](https://zakirmohd.dev) | [LinkedIn](https://linkedin.com/in/zakirmohd)
+🌐 [Portfolio](https://zakir8992.github.io/Mohammed_zakir_portfolio/) 
 
