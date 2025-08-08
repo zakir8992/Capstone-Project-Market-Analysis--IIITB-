@@ -88,7 +88,7 @@ OList wants to:
 
 ## 📽️ Project Demo
 
-[![Watch Video](https://youtu.be/slaSsgRFedk)
+(https://youtu.be/slaSsgRFedk)
 
 ---
 
